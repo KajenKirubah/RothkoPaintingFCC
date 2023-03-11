@@ -1,0 +1,11 @@
+.frame {
+    border: black solid 25px;
+    width: 300px;
+    padding: 15px;
+    margin: 10px auto;
+    @mixin atSmall {
+        width: 500px;
+        padding: 50px;
+        margin: 20px auto;
+    }
+}
