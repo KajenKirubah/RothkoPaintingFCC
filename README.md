@@ -15,4 +15,4 @@ This project was made for me to get a better understanding of workflow.  It is a
 - mini-css-extract-plugin
 - css-minimizer-webpack-plugin
 
-My aim was trying to implement mobile responsiveness, using concept of CSS modules, and BEM.  Although not perfect, I learned alot by building this project :).
+My aim was trying to implement mobile responsiveness, using concept of CSS modules, and BEM.  Although not perfect, I learned alot by building this project :)
